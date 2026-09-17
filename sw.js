@@ -1,5 +1,5 @@
 // 三才姬對決 - Service Worker（離線快取）
-const CACHE_NAME = 'sancai-ji-v1';
+const CACHE_NAME = 'sancai-ji-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
